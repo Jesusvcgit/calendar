@@ -1,4 +1,4 @@
-# TCalendar
+# Calendar
 
 ## 📌 Descripción
 Calendar es una aplicación web que permite gestionar horarios de actividades de manera interactiva y dinamica. Los usuarios podrán visualizar, editar y eliminar actividades en una tabla de horarios. Los datos se almacenaran en `localStorage` permitiendo una mayor usabilidad y persistencia de los datos.
